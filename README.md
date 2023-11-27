@@ -10,6 +10,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"></a>
 </p> 
 
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 - 🏢Hello, I'm Mohamed, a dedicated front-end developer passionate about creating interactive, responsive, and pixel-perfect web applications. As a software engineer with a flair for design and a commitment to delivering exceptional user experiences, I'm eager to bring your web projects to life.
 What I Do:
 ✨ User-Centric Design: I prioritize user-centric design, crafting intuitive and visually appealing interfaces to enhance user engagement.
